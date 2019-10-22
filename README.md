@@ -5,7 +5,7 @@ Nodejs Cheerio WebScraping
 ## Getting Started
 
 ```
-git clone 
+git clone https://github.com/AlexanderPrincipe/WebScraping.git
 ```
 
 ```
