@@ -27,3 +27,5 @@ Correr el proyecto
 ```
 node index.js
 ```
+
+El proyecto crea un archivo .csv donde guarda las frases, autores y etiquetas de la pagina web
